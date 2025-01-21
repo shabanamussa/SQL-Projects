@@ -10,6 +10,6 @@ Determine the country with the lowest principal repayments on external debt.
 ## Project Deliverables
 This Git repository includes the SQL queries used for the analysis.
 
-##Additional Notes
+## Additional Notes
 This README assumes you're using a database system like PostgreSQL with public schema.
 Feel free to modify the SQL queries to explore the data further based on your interests.

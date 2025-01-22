@@ -12,9 +12,9 @@ Identify Repeat Purchases: The analysis will isolate products with repeat purcha
 
 Calculate Key Metrics: For each product, the following metrics will be calculated:
 
-  <blockquote>Sales: Total sales revenue generated.</blockquote>blockquote>S <br>
-  Rating: Customer rating of the product. <br>
-  Rank Products: Products will be ranked based on their sales performance, identifying the top-selling products with repeat purchases.
+  <blockquote>Sales: Total sales revenue generated.</blockquote><br>
+  <blockquote>Rating: Customer rating of the product. </blockquote><br>
+  <blockquote>Rank Products: Products will be ranked based on their sales performance, identifying the top-selling products with repeat purchases.</blockquote>
 
 ## Expected Outcomes:
 

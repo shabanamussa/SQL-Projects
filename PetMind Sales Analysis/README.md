@@ -4,24 +4,18 @@ This project aims to analyze sales data for PetMind, a U.S.-based retailer of pe
 Specifically, we will focus on analyzing sales data for cats and dogs, identifying top-selling products with repeat purchases.
 
 ## Analysis Goals:
-Focus on Cleaning data 
-
 Focus on Cats and Dogs: The analysis will be limited to products for cats and dogs, as these are identified as key focus areas for PetMind.
 
 Identify Repeat Purchases: The analysis will isolate products with repeat purchases (repeat_purchase = 1).
 
-Calculate Key Metrics: For each product, the following metrics will be calculated:
-
-  <blockquote>Sales: Total sales revenue generated.</blockquote><br>
-  <blockquote>Rating: Customer rating of the product. </blockquote><br>
-  <blockquote>Rank Products: Products will be ranked based on their sales performance, identifying the top-selling products with repeat purchases.</blockquote>
+Calculate Key Metrics: For each product, Sales, Rating and Rank will be calculated
 
 ## Expected Outcomes:
-
 Identification of the most successful products for cats and dogs that are driving repeat purchases.
 Insights into the relationship between repeat purchases and sales performance for different product categories (e.g., toys vs. food).
 Recommendations for future product development and marketing strategies to encourage repeat purchases.
-Tools:
+
+## Tools:
 
 SQL will be used to query and analyze the sales data.
 This README provides a high-level overview of the project. Detailed analysis and findings will be documented in subsequent reports.

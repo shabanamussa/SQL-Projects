@@ -15,9 +15,7 @@ Determine which business categories have demonstrated the greatest longevity acr
 
 ## Expected Outcomes:
 
-Gain insights into the characteristics of businesses that have thrived for centuries.
-Identify potential factors contributing to long-term business success, such as industry type, geographic location, and adaptability to changing market conditions.
-Provide valuable information for businesses seeking to achieve longevity and sustainable growth.
+This project aims to analyze data on the oldest companies worldwide to understand the factors that contribute to long-term business success. By examining the characteristics of businesses that have thrived for centuries, we can gain valuable insights into key determinants of longevity and sustainability.
 
 ## Tools:
 
